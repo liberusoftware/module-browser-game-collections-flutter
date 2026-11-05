@@ -1,0 +1,15 @@
+{
+  "repository": "module-browser-game-collections-flutter",
+  "capabilityKey": "liberusoftware/module-browser-game-collections",
+  "presentation": "mobile-flutter",
+  "package": "module_browser_game_collections_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/browser-game/nextjs/collections.md",
+  "presentationPlan": "projects/browser-game/flutter/collections.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "browser-game"
+  ]
+}
